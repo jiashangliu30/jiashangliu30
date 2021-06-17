@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey, I'm Jason Liu🖐
 
-<!--
-**jiashangliu30/jiashangliu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+Welcome to my page, 
+my projects here includes Data Wrangling, Data Analysis, Machine Learning & Deep Learning
+
+📋some quick facts about me:
+- 🏔 I’m currently a student in Applied AI Solution Development in George Brown College 
+- 📈 I am an emerging data analyst based in Toronto
+- 👨‍🎓 Penn State Alum: Bachelor in Landscape Architecture & Bachelor of Art in Economics
+- ⚡ I’m passinate about UX & design analytics 
+- 💬 intersting fact about me? 
+- .... Well, I transitioned from working as a landscape architect in a small office, to a UX designer in a start-up, now data analyst
+
+
