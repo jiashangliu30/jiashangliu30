@@ -12,6 +12,6 @@ my projects here includes Data Wrangling, Data Analysis, Machine Learning & Deep
 - 👨‍🎓 Penn State Alum: Bachelor in Landscape Architecture & Bachelor of Art in Economics
 - ⚡ I’m passinate about UX & design analytics 
 - 💬 intersting fact about me? 
-- .... Well, I transitioned from working as a landscape architect in a small office, to a UX designer in a start-up, now data analyst
+- .... Well, I transitioned from working as a landscape architect in a studio, to a UX designer in a start-up, now data analyst
 
 
