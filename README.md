@@ -11,7 +11,7 @@ some quick facts about me:
 - 📈 I am an emerging data analyst based in Toronto
 - 😎 I am a creative problem solver
 - 👨‍🎓 Penn State Alum: Bachelor in Landscape Architecture & Bachelor of Art in Economics
-- ⚡ I am passinate about using data to help people learn what they didn't
+- ⚡ I am passinate about using data to help people learn what they didn't and do what they couldn't
 - 💬 intersting fact about me? 
 - .... Well, I transitioned from working as a landscape architect in a studio, to a Product designer & Analyst in a start-up, now data analyst.
 
